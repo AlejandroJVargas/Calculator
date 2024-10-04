@@ -28,7 +28,7 @@ def remainder(a, b):
     return a % b
 
 
-option = int(input("Select an option to use in the calculator (1/2/3/4/5/6): "))
+option = input("Select an option to use in the calculator (1/2/3/4/5/6): ")
 
 number_1 = float(input("Please enter the first number: "))
 number_2 = float(input("Please enter the second number: "))
